@@ -1,0 +1,1 @@
+CREATE TABLE weather (id INTEGER PRIMARY KEY, temperature REAL, humidity REAL);
