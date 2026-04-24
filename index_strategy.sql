@@ -1,0 +1,1 @@
+CREATE INDEX IF NOT EXISTS idx_weather_id ON weather (id);
